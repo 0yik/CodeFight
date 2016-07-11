@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1458490814 source:/home/oyik/CodeFight/2016/SortCardBridge/main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<algorithm>
+

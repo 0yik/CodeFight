@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456539062 source:/home/oyik/CodeFight/buble/PayingUp/main.cpp
+	<iostream>
+	<string>
+	<vector>
+

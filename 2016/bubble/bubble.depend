@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1456235359 source:/home/oyik/CodeFight/buble/bubble/main.cpp
+	<iostream>
+	<array>
+

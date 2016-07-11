@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458661711 source:/home/oyik/CodeFight/2016/ExpandIt/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

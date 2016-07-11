@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458462489 source:/home/oyik/CodeFight/2016/LuckySpotUber/main.cpp
+	<iostream>
+	<vector>
+

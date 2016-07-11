@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1458428879 source:/home/oyik/CodeFight/2016/ClosetNeighbor/main.cpp
+	<iostream>
+	<vector>
+

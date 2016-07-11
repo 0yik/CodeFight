@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457019335 source:/home/oyik/CodeFight/2016/FindPath/main.cpp
+	<iostream>
+	<vector>
+
